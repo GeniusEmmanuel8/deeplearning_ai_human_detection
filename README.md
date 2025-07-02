@@ -21,4 +21,4 @@ ai_human_detection_deep_learning_project/
 
 ## Links
 - streamlit: https://deeplearningaihumandetection-zjauvbfjkcbvrksnsvqffn.streamlit.app 
-- Github: https://github.com/GeniusEmmanuel8/deeplearning_ai_human_detection
+- Github: https://github.com/GeniusEmmanuel8/deeplearning_ai_human_detection/tree/main
