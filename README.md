@@ -20,5 +20,5 @@ ai_human_detection_deep_learning_project/
 - Real-time AI vs Human classification with confidence scores
 
 ## Links
-- streamlit: https://deeplearningaihumandetection-zjauvbfjkcbvrksnsvqffn.streamlit.app
+- streamlit: https://deeplearningaihumandetection-zjauvbfjkcbvrksnsvqffn.streamlit.app 
 - Github: https://github.com/GeniusEmmanuel8/deeplearning_ai_human_detection
